@@ -1,9 +1,0 @@
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
-/Users/fabreu/Development/Udemy/microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
